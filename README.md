@@ -1,3 +1,6 @@
+# THX The Net Ninja !
+https://www.youtube.com/c/TheNetNinja if you want to see some cool tutos :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
